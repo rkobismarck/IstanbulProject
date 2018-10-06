@@ -28,7 +28,3 @@ npm run lint
 
 * [Vue.js](https://vuejs.org/) - JavaScript Framework
 * [Materialize CSS](https://materializecss.com/) - CSS Framework
-
-## Author
-
-* **Muhammad Daivasmara Denaw** - [Daivasmara](https://github.com/Daivasmara)
