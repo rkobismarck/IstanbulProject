@@ -26,5 +26,5 @@ npm run lint
 
 ## Built with
 
-* [Vue.js](https://vuejs.org/) - JavaScript Framework
-* [Materialize CSS](https://materializecss.com/) - CSS Framework
+* [Vue.js](https://vuejs.org/) - JavaScript Framework.
+* [Materialize CSS](https://materializecss.com/) - CSS Framework.
